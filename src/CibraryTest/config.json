@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "CibraryTest"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-CibraryTest-8a9c9b07-6919-4272-a66f-71dd4b7dea6a;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
