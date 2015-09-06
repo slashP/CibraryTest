@@ -74,7 +74,7 @@ _[Ss]cripts
 *.ncrunchsolution
 *.dot[Cc]over
 node_modules
-wwwroot
+**/wwwroot/lib/
 /PublishScripts/AzureVMPublishModule.psm1
 /PublishScripts/Configurations/CibraryTest-WAWS-dev.json
 /PublishScripts/Publish-WebApplicationVM.ps1
